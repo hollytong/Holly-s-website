@@ -3,10 +3,15 @@
  	</head>
 	<body>
 		<header class='main'>
-			<h1>This is an example HTML page yyyyy</h1>
-			<h1>Hello I am joscelin </h1>
+			<h1>Welcome to the London foodie blog</h1>
+			<h1>We are food lovers </h1>
 		</header>
 		<section>
 			<span class='acronym'>HTML</span> is <em>wonderful</em>.
+			
+			
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIssbldUCCx83Ra_3bTZt0JC8CBf6iyaXYVlLyhqqlOSz_8w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+			
+			
  </html>
 
