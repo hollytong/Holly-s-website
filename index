@@ -1,15 +1,19 @@
-<!DOCTYPE html>
 <html>
-	<head>
-		<title>Example HTML Page</title>
-	</head>
-	<body>
-		<header class='main'>
-			<h1>Hello I am joscelin </h1>
-		</header>
-		<section>
-			<span class='acronym'>HTML</span> is <em>wonderful</em>.
-			Here's a link to <a href='https://google.com'>google</a>
-		</section>
-	</body>
+
+<head>
+	<meta name="theme-color" content="#ff4081">
+	<style type="text/css">
+		div#love {
+			text-align: center;
+			vertical-align: middle;
+			margin-top: 200px;
+			opacity: 0.3;
+		}
+		
+		div#loveText {
+			opacity: 1;
+		}
+	</style>
+</head>
+
 </html>
