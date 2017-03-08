@@ -8,7 +8,11 @@
 			<h1>We are food lovers </h1>
 		</header>
 		<section>
-			<span class='acronym'>HTML</span> is <em>wonderful</em>.
+			<img src="https://media.timeout.com/images/103639665/1372/772/image.jpg" alt="some_text" style="width:width;height:height;">
+
+<section>
+
+<img src="https://media.timeout.com/images/103639657/1372/1029/image.jpg" alt="some_text" style="width:width;height:height;">
 			
 			
 			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIssbldUCCx83Ra_3bTZt0JC8CBf6iyaXYVlLyhqqlOSz_8w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
