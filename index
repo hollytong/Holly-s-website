@@ -8,20 +8,27 @@
 			<h1>We are food lovers </h1>
 		</header>
 		<section>
-			<img src="https://media.timeout.com/images/103639665/1372/772/image.jpg" alt="some_text" style="width:width;height:height;">
+		
+		
+<h2>This is a video about the food in London</h2>
 
-<section>
+<iframe width="525" height="315" src="https://www.youtube.com/embed/t9e9AvnN3X0" frameborder="0" allowfullscreen></iframe>
 
-<img src="https://media.timeout.com/images/103639657/1372/1029/image.jpg" alt="some_text" style="width:width;height:height;">
+<div class="cities">
+<h2>Japanese food </h2>
+<p>There are a lot of Japanese food in London, such as itsu, Wasabi and mnay authentic Japanese restaurants.</p>
+</div> 
+
+			<img src="https://lh6.googleusercontent.com/-QxrULEkJ1lQ/UDoGCyQAtJI/AAAAAAAAEEs/un7msY4XGm4/s720/ittenbari%2520%25288%2520of%252010%2529.jpg" alt="some_text" style="width:width;height:height;">
 
 
-<section> 
+<div class="cities">
+<h2>Bristish food </h2>
+<p>Fish and Chips is one of the signature of British food, which is loved by tourists from everywhere.</p>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9e9AvnN3X0" frameborder="0" allowfullscreen></iframe>
-			
-			
-			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIssbldUCCx83Ra_3bTZt0JC8CBf6iyaXYVlLyhqqlOSz_8w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-			
+			<img src="http://www.thesailorboystosyth.co.uk/communities/5/004/012/747/795//images/4612142013.jpg
+" alt="some_text" style="width:width;height:height;">
 			
  </html>
 
