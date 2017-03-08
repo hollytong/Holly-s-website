@@ -1,5 +1,15 @@
 <!DOCTYPE html>
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+		<header class='main'>
+			<h1>This is an example HTML page</h1>
+			<h1>This is an example HTML page yyyyy</h1>
+		</header>
+		<section>
+			<span class='acronym'>HTML</span> is <em>wonderful</em>.
+			Here's a link to <a href='https://google.com'>google</a>
+		</section>
+	</body>
+</html> 
+</html>
 
