@@ -1,19 +1,5 @@
-<html>
-
+<!DOCTYPE html>
 <head>
-	<meta name="theme-color" content="#ff4081">
-	<style type="text/css">
-		div#love {
-			text-align: center;
-			vertical-align: middle;
-			margin-top: 200px;
-			opacity: 0.3;
-		}
-		
-		div#loveText {
-			opacity: 1;
-		}
-	</style>
-</head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
 
-</html>
