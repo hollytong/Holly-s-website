@@ -1,16 +1,16 @@
 <!DOCTYPE html>
-	</head>
-	<body>
-		<header class='main'>
-			<h1>This is an example HTML page</h1>
-			<h1>This is an example HTML page yyyyy</h1>
-		</header>
-		<section>
-			<span class='acronym'>HTML</span> is <em>wonderful</em>.
-			Here's a link to <a href='https://google.com'>google</a>
-			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIssbldUCCx83Ra_3bTZt0JC8CBf6iyaXYVlLyhqqlOSz_8w/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-		</section>
-	</body>
-</html>
-</html>
+ <html>
+ 	<head>
+ 		<title>Example HTML Page</title>
+ 	</head>
+ 	<body>
+ 		<header class='main'>
+ 			<h1>This is an example HTML page</h1>
+ 		</header>
+ 		<section>
+ 			<span class='acronym'>HTML</span> is <em>wonderful</em>.
+ 			Here's a link to <a href='https://google.com'>google</a>
+ 		</section>
+ 	</body>
+ </html>
 
