@@ -2,6 +2,7 @@
  <html>
  	</head>
 	<body>
+	<body bgcolor="#ff4081" onload="onLoad()">
 		<header class='main'>
 			<h1>Welcome to the London foodie blog</h1>
 			<h1>We are food lovers </h1>
